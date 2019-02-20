@@ -21,11 +21,14 @@ ul,ol,li{
 .topBonus{
 	margin: 20px 0 0 0;
 }
-.mainNav li{
+.mMLinks{
 	display: inline-block;
 	margin-right: 40px;
-	font-size: 18px;
-	color: #383838;
+}
+.mMLinks a{
+  text-decoration: none;
+  font-size: 18px;
+  color: #383838;
 }
 .block2{
 	margin: 29px 0 0 0;
