@@ -1,0 +1,376 @@
+header{
+	margin: 13px 0 0 0;
+}
+ul,ol,li{
+	list-style:none;
+	margin: 0;
+	padding: 0;
+}
+/****************************HEADER*****************************/
+
+.tTMenu{
+	display: inline-block;
+	margin-left: 10px;
+  float: right;
+}
+.tTMenu a{
+  font-size: 14px;
+  color: #004FA8;
+  font-weight: 700;
+}
+.topBonus{
+	margin: 20px 0 0 0;
+}
+.mainNav li{
+	display: inline-block;
+	margin-right: 40px;
+	font-size: 18px;
+	color: #383838;
+}
+.block2{
+	margin: 29px 0 0 0;
+}
+* {box-sizing: border-box;}
+form {
+  position: relative;
+  width: 170px;
+  margin-right: 35px;
+}
+input {
+  width: 100%;
+  height: 30px;
+  padding-left: 10px;
+  border: 2px solid #30A2E8;
+  border-radius: 5px;
+  outline: none;
+  background: #fff;
+  color: #9E9C9C;
+}
+button {
+  position: absolute; 
+  top: 0;
+  right: 0px;
+  width: 30px;
+  height: 30px;
+  border: none;
+  background: #30A2E8;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+}
+.topMenIko{
+  margin: 0 0 3px 0;
+}
+.fa-search{
+	color: #F9F0DA;
+}
+.strSearch{
+	margin: 25px 0 0 0;
+}
+.zagWrapper{
+	margin: 75px 0 0 0;
+}
+.firstZag{
+	font-size: 33px;
+	font-weight: 700;
+}
+.secondZag{
+	margin: 20px 0 0 0;
+	font-weight: 400;
+	font-size: 22px;
+}
+
+.btn {
+	margin: 45px 0 0 0;
+  padding: 0;
+  border-radius: 12px;
+  border: none;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.btn--orange {
+  background: linear-gradient(to left, #196ABE, #39B3EC);
+  padding: 5px 15px; 
+}
+.viewport{
+  margin: 50px 0 0 0;
+    border-radius: 12px;
+}
+.imgWrapper{
+  background: url(../images/photo1.png) no-repeat center top;
+    width:550px;
+    height:405px;
+}
+.imgOverlay{
+    height: 100%;
+    width: 100%;
+    padding: 25px;
+    color: #fff;
+    font-size: 35px;
+    font-weight: 700;
+    background: linear-gradient(to right, #1A76DC, #3BB6EA);
+    opacity: 0.8;
+}
+.slide{
+    float:left;
+    width:550px;
+    height:405px;
+    box-sizing: border-box;
+    background: #eee;
+    margin: 0;
+    padding: 0;
+}
+.slidewrapper{
+    list-style: none;
+    height:405px;
+    margin: 0;
+    padding: 0;
+}
+
+.viewport{
+    height: 405px;
+    width:550px;
+    overflow: hidden;
+    position:relative;
+}
+.slidewrapper{
+    position:absolute;
+    left:0;
+    top:0;
+}
+
+/****************************header*****************************/
+
+/****************************SECTION_1**************************/
+.zagSection{
+  margin: 55px 0 0 0;
+  font-weight: 700;
+  font-size: 33px;
+  color: #090909;
+}
+.novIObWrapper{
+  float: right;
+  margin: 70px 0 0 0;
+}
+.ssilNews{
+  text-decoration: none;
+  color: #383838;
+  font-size: 18px;
+  margin-left: 20px;
+}
+.newsWrapper{
+  margin: 60px 0 0 0;
+  padding: 15px;
+}
+.newsCard{
+  border-radius: 6px;
+  background: #fff;
+  box-shadow: 4px 4px 10px 3px #B8B7B6;
+}
+.newsImgWrap{
+  height: 205px;
+  border-radius: 6px 6px 0 0;
+  overflow: hidden;
+}
+.newsOne{
+  height: 100%;
+  background: url(../images/c-news.png) no-repeat center top;
+}
+.newsSecond{
+  height: 100%;
+  background: url(../images/roboNews.png) no-repeat center top;
+}
+.newsThird{
+  height: 100%;
+  background: url(../images/konfNews.png) no-repeat center top;
+}
+.newsPlenka{
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(to right, #1A76DC, #3BB6EA);
+    opacity: 0.39;
+}
+.newsInfa{
+  padding: 15px;
+}
+.newsDmy{
+  margin: 0;
+  float: right;
+  font-size: 9px;
+  color: #5E6365;
+  font-weight: 700;
+}
+.newsName{
+  margin: 15px 0 0 0;
+}
+.newsName a{
+  text-decoration: none;
+  font-size: 19px;
+  font-weight: 600;
+  color: #000;
+}
+.bitNews{
+  margin: 25px 0 0 0;
+  font-size: 11px;
+  color: #656A6C;
+}
+.newsBtnArea{
+  margin: 30px 0 0 0;
+  height: auto;
+}
+.btnPodr {
+  padding: 0;
+  border-radius: 10px;
+  border: none;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  text-decoration: none;
+}
+.btnwrp{
+  width: 100px;
+  margin: 0 auto;
+}
+.btn--blue {
+  background: linear-gradient(to left, #196ABE, #39B3EC);
+  padding: 3px 17px; 
+}
+.newsBotLine{
+  height: 6px;
+  border-radius: 0 0 3px 3px;
+  background: linear-gradient(to right, #3BB5E9, #1A76DC);
+}
+/****************************section_1**************************/
+
+/****************************ПОЛЕЗНЫЕ РУСУРСЫ**************************/
+
+.polRes{
+  margin: 50px 0 0 0;
+}
+.wrapPolRes{
+  width: 360px;
+  height: 166px;
+  border-radius: 10px;
+  background: linear-gradient(to left, #3BB5E9, #1A76DC);
+  margin: 0 0 30px 0;
+  padding: 15px;
+  color: #fff;
+  font-weight: 600;
+  font-size: 14px;
+  box-shadow: 4px 4px 10px 3px #B8B7B6;
+}
+.wrappPolImg{
+  float: left;
+  margin: 15px 0 0 0;
+}
+.wrappPolTxt{
+  float: left;
+  margin: 30px 0 0 7px; 
+}
+/****************************полез ресур**************************/
+
+
+/****************************Contact**************************/
+
+.kontBl{
+  margin: 100px 0 0 0;
+}
+.kontBl h2{
+  font-size: 30px;
+  font-weight: 600;
+}
+.wrapKont{
+  margin: 25px 0 0 0;
+}
+.kontTxt{
+  font-size: 18;
+  font-weight: 500;
+  color: #383838;
+}
+.phoneNum{
+  margin: 0;
+  font-weight: 400;
+  font-size: 30px;
+  color: #383838;
+}
+.mailTxt{
+  font-size: 18px;
+}
+.mapWrapper{
+  margin: 85px 0 0 35px;
+}
+/****************************contac**************************/
+
+/****************************LastSec Footer**************************/
+
+
+.spisBolZag{
+  margin: 0;
+  font-size: 17px;
+  font-weight: 600;
+  color: #fff;
+}
+.spisBolLin{
+  background: #fff;
+  opacity: 0.3;
+  margin-top: 0;
+  width: 220px;
+  height: 1px;
+}
+.lastSec{
+  margin: 35px 0 0 0;
+  padding: 45px 0 60px 0;
+  background: #2c2c2c;
+}
+.spisBol{
+  margin: 5px 0 0 0;
+}
+.spisBolPn{
+  margin: 0 0 5px 0;
+  color: #fff;
+  font-size: 16px;
+}
+.spisBolPn a{
+  color: #fff;
+  font-size: 16px;
+}
+.copyWrapp a{
+  text-decoration: none;
+}
+.copyrigth{
+  margin: 5px 0 0 0;
+  font-size: 16px;
+  color: #fff;
+}
+footer{
+  border-top: 2px solid #373737;
+  padding: 10px 0 10px 0;
+  background: #2c2c2c;
+}
+.otherVer{
+  padding: 6px;
+  height: 60px;
+  width: 260px;
+  background: #fff;
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: 700;
+  color: #383838;
+}
+.otherVerWrap{
+  margin: 7px 0 0 0;
+}
+.mobApp{
+  font-size: 16px;
+  color: #FFF;
+}
+.imgMobAp{
+  float: left;
+}
+.mobApTxt{
+  float: left;
+  margin: 0 0 0 5px;
+}
+/****************************lastSec footer**************************/
